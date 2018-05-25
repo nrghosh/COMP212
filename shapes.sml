@@ -1,7 +1,5 @@
-(*  COMP 212 Homework 7:  Datatype definitions.
+(*  Datatype definitions: Sierpinski's Triangle and More
 *
-*   Nikhil Ghosh
-*   Fall 2016
 *)
 
 structure Hw7 =
